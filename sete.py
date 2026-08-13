@@ -1,0 +1,5 @@
+nome = input("Digite seu nome: ")
+sobrenome = input("Digite seu sobrenome: ")
+nomeSespaco = nome.strip() 
+sobreSespaco = sobrenome.strip()
+print(f"O seu nome é {nomeSespaco} {sobreSespaco}, correto?")
