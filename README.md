@@ -3,8 +3,6 @@ Exercícios referentes ao arquivo disponibilizado pela professora Debora Paixao-
 
 # EXERCÍCIOS USANDO STRINGS
 
-**EXERCÍCIOS USANDO STRINGS**
-
 **1. CONTANDO CARACTERES DO NOME**
 Nível: Fácil
 Peça ao usuário que digite o nome completo (input) e informe quantos caracteres esse nome tem, usando len(). Antes de contar, remova espaços em branco no início e no fim do texto digitado (dica: método .strip()).
